@@ -1,0 +1,36 @@
+{
+  "clientes": [
+    {
+      "nombre": "Felipe A. Vivanco",
+      "empresa": "Vivanco Empresas",
+      "email": "felipevivanco05@gmail.com",
+      "telefono": "232435456",
+      "notas": "hola como estás bien y tu",
+      "id": 1
+    },
+    {
+      "nombre": "Felipe Vivanco",
+      "empresa": "Empresas VVIvanco",
+      "email": "felipevivanco05@gmail.com",
+      "telefono": "232435456",
+      "notas": "Recomendado",
+      "id": 3
+    },
+    {
+      "nombre": "Valentina",
+      "empresa": "Valentina SA",
+      "email": "valentina@valentina.com",
+      "telefono": "12333",
+      "notas": "",
+      "id": 5
+    },
+    {
+      "nombre": "Elver Galarga",
+      "empresa": "Elver sa",
+      "email": "correo@correo.com",
+      "telefono": "123415",
+      "notas": "hola",
+      "id": 7
+    }
+  ]
+}
